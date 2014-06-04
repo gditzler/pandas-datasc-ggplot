@@ -1,4 +1,5 @@
-pandas-datasc-ggplot
-====================
+# getting started
 
-collection of random scripts with pandas stuff for data science and using ggplot with pandas
+```bash 
+  ipython notebook --pylab inline 
+```
